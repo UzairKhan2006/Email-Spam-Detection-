@@ -1,0 +1,106 @@
+text,label,label_num
+"Subject: lunch tomorrow? Hi Ali, are you free for lunch tomorrow at 1 pm? Let me know and I will book a table.",ham,0
+"Subject: assignment deadline. Dear students, the deadline for Assignment 3 has been extended to Friday. Please submit it on the portal.",ham,0
+"Subject: absence from lecture. Dear Professor, I could not attend yesterday's lecture due to illness. Could you please share the notes? Regards, Hamza",ham,0
+"Subject: your order has shipped. Hello, your order #48213 has shipped and will arrive within 3 to 5 days. Thank you for shopping with us.",ham,0
+Subject: happy birthday! Happy birthday Sara! Hope you have a wonderful day with your family. See you at the party tonight.,ham,0
+"Subject: meeting notes. Hi team, attached are the notes from today's meeting. Please review them and send me any corrections by tomorrow.",ham,0
+"Subject: password reset requested. We received a request to reset your password. If you made this request, use the code 482913. If not, ignore this email.",ham,0
+Subject: your login code. Your verification code is 739201. It expires in 10 minutes. Do not share this code with anyone.,ham,0
+"Subject: interview invitation. Dear Mr. Khan, thank you for applying. We would like to invite you for an interview on Thursday at 11 am at our office.",ham,0
+"Subject: project update. Hi everyone, the backend API is now deployed on the test server. Please try it out and report any bugs in the shared sheet.",ham,0
+Subject: re: group presentation. Sounds good. I will prepare slides 1 to 5 and you can do the rest. Let's meet in the library at 4.,ham,0
+Subject: library book due. Reminder: the book you borrowed is due on the 20th. You can renew it online if needed.,ham,0
+"Subject: class schedule change. Dear students, tomorrow's database class is moved to room 12. The time remains the same.",ham,0
+"Subject: invoice attached. Hello, please find attached the invoice for last month's services. Kindly confirm receipt.",ham,0
+Subject: thanks for your help. Thank you so much for helping me with the Python bug yesterday. It works perfectly now.,ham,0
+"Subject: family dinner. Hi, mom wants everyone to come over on Sunday for dinner. Can you bring dessert?",ham,0
+Subject: flight confirmation. Your flight to Lahore is confirmed. Departure 7:45 am. Please arrive at the airport two hours early.,ham,0
+Subject: doctor appointment reminder. This is a reminder of your appointment tomorrow at 5 pm. Please reply to confirm or reschedule.,ham,0
+"Subject: can you review my code? Hey, I pushed my latest changes to the branch. Could you review the pull request when you have time?",ham,0
+Subject: exam date sheet. The final exam date sheet has been uploaded on the university website. Please check your papers and rooms.,ham,0
+Subject: welcome to the team. Welcome aboard! Your first day is Monday. Please bring your ID card and two photographs.,ham,0
+"Subject: hostel fee challan. Dear student, your hostel fee challan for this semester is attached. Last date to pay is the 15th.",ham,0
+"Subject: question about the lab. Sir, in lab 4 do we need to configure the router with static routes or is DHCP enough? Thank you.",ham,0
+"Subject: meeting rescheduled. Hi all, due to a clash the weekly meeting is moved to Wednesday at 3 pm. Sorry for the inconvenience.",ham,0
+Subject: receipt for your payment. Thank you for your payment of 2500 rupees. Your receipt is attached to this email.,ham,0
+Subject: team outing. We are planning a picnic on Saturday. Please reply with your name if you are coming so we can arrange transport.,ham,0
+"Subject: scholarship results. Dear applicant, we are pleased to inform you that you have been shortlisted. Please bring your documents for verification.",ham,0
+Subject: new comment on your document. Ahmed commented on your document Project Proposal. Open the document to reply.,ham,0
+Subject: weekly newsletter. This week in computer science: a new course on machine learning starts next month. Registration is open to all students.,ham,0
+"Subject: can we talk? Hi, do you have ten minutes today to talk about the internship plan? I have a few questions.",ham,0
+Subject: bank statement available. Your monthly account statement is now available in the mobile banking app. Log in to view it.,ham,0
+Subject: package delivery attempt. We tried to deliver your parcel today but nobody was home. We will try again tomorrow between 10 am and 2 pm.,ham,0
+"Subject: thesis feedback. I read your draft chapter. The introduction is clear, but the methodology section needs more detail about the dataset.",ham,0
+"Subject: re: rent. Hi, I transferred the rent this morning. Please confirm when you receive it.",ham,0
+Subject: cricket match on sunday. We have a match on Sunday at 8 am at the university ground. Everyone please be on time.,ham,0
+Subject: course registration open. Registration for the next semester is open until Friday. Please select your courses on the student portal.,ham,0
+Subject: congratulations on your result. Congratulations on passing the exam! Your hard work paid off. Let's celebrate this weekend.,ham,0
+Subject: car service reminder. Your car is due for its regular service. Call us to book a convenient time.,ham,0
+Subject: minutes of meeting. Please find the minutes of the department meeting below. Action items are marked with names and dates.,ham,0
+"Subject: sorry I am late. Sorry, I am stuck in traffic and will reach the office in twenty minutes. Please start without me.",ham,0
+Subject: new job offer letter. We are happy to offer you the position of junior developer. The offer letter and joining details are attached.,ham,0
+"Subject: security alert. A new device signed in to your account. If this was you, no action is needed. If not, please change your password.",ham,0
+Subject: notes for networking class. Here are the notes for the subnetting lecture. Practice the questions at the end before the quiz.,ham,0
+Subject: reminder: submit timesheet. Please submit your timesheet by end of day today so payroll can be processed.,ham,0
+Subject: photos from the trip. Here are the photos from our trip to Swat. Some of them came out really well. Let me know which ones you want.,ham,0
+Subject: urgent: server down. The production server is not responding. I am looking into it now and will update you in 15 minutes.,ham,0
+Subject: urgent meeting today. Please join the urgent meeting at 2 pm in the conference room. The client has changed the requirements.,ham,0
+Subject: free seminar for students. The department is organizing a free seminar on cyber security this Thursday. All students are welcome to attend.,ham,0
+Subject: your subscription receipt. Thanks for subscribing. Your plan renews on the first of every month. You can cancel any time from your account settings.,ham,0
+"Subject: referral letter request. Dear Sir, I am applying for a master's program and would be grateful if you could write a recommendation letter for me.",ham,0
+"Subject: attendance report. Hi sir, attached is the attendance sheet of BSCS students for this week. Please check and let me know if any change is needed.",ham,0
+Subject: re: git conflict. I resolved the merge conflict and pushed to main. Pull the latest changes before you continue.,ham,0
+Subject: wedding invitation. We are delighted to invite you to the wedding of our daughter on the 12th. Dinner will be served after the ceremony.,ham,0
+Subject: money transfer received. You have received a transfer of 15000 rupees from your brother. Your new balance is available in the app.,ham,0
+Subject: discount on books. Our campus bookstore has 20 percent off on all computer science textbooks until the end of this month.,ham,0
+"Subject: how are you? Hi, it has been a long time. How is everything going? Hope you and your family are doing well.",ham,0
+Subject: quiz tomorrow. Reminder that there will be a short quiz on chapters 3 and 4 tomorrow. Please come prepared.,ham,0
+Subject: laptop repair status. Your laptop has been repaired and is ready for collection. Please bring the repair slip.,ham,0
+"Subject: feedback on your pull request. Nice work. Just rename the variable data to email_data and add a short docstring, then I will merge it.",ham,0
+Subject: electricity bill. Your electricity bill for this month is 5400 rupees. The due date is the 10th. Pay online or at any bank branch.,ham,0
+"Subject: group project roles. Let's divide the work: Ali will do the frontend, Sara the database and I will write the report.",ham,0
+Subject: new message from your teacher. Your teacher has posted a new announcement in the Virtual Classroom. Please log in to read it.,ham,0
+"Subject: grocery list. Can you pick up milk, eggs, bread and some fruit on your way home? Thanks!",ham,0
+Subject: visa appointment. Your appointment is confirmed for Monday at 9 am. Please bring your passport and the application form.,ham,0
+"Subject: call me when free. Hi, please call me when you are free. It is nothing urgent but I need your advice.",ham,0
+Subject: workshop certificate. Thank you for attending the workshop. Your participation certificate is attached to this email.,ham,0
+"Subject: order cancelled. As requested, your order has been cancelled and the refund will reach your account in 5 to 7 working days.",ham,0
+Subject: internship application received. Thank you for applying for the internship. We have received your application and will contact you shortly.,ham,0
+Subject: reminder about tomorrow's trip. Don't forget to bring your ID card and some cash. The bus leaves at 6 am sharp.,ham,0
+Subject: slides for tomorrow. I have uploaded the slides to the shared folder. Please add your section by tonight.,ham,0
+Subject: university fee reminder. This is a reminder that the last date for paying semester dues is next Monday.,ham,0
+Subject: Zoom link for class. The online class will be held at 10 am. The Zoom link is below. Please keep your microphone muted.,ham,0
+"Subject: Hello. Hello, I hope you are well. I wanted to ask whether the project report is ready for submission.",ham,0
+"Subject: I am looking for a flat. Hi, I am looking for a room near the university. Do you know of any available? Please let me know the rent.",ham,0
+"Subject: Your parcel is on its way. Hello, your parcel is on its way and will be delivered tomorrow. Track it with the link in the app.",ham,0
+"Subject: Congratulations! You have WON a $5,000 gift card!!! Click http://claim-prize-now.com to get your FREE reward today!!!",spam,1
+Subject: Your account has been suspended. Verify your password immediately at http://secure-bank-login.net or your account will be closed.,spam,1
+Subject: Buy cheap meds online. No prescription needed. Lowest prices guaranteed. Order today and save 80%.,spam,1
+Subject: URGENT business proposal. I am a prince and need your help to transfer 10 million dollars. You will receive 30 percent. Reply with your bank details.,spam,1
+Subject: Make $5000 per week working from home!!! No experience needed. Click here to start earning money now.,spam,1
+"Subject: You are the lucky winner of our international lottery. Send your name, address and phone number to claim your prize money.",spam,1
+Subject: Hot singles in your area are waiting to meet you. Click now and join for free!,spam,1
+Subject: Increase your size fast. Safe and guaranteed results. Order now with discreet shipping.,spam,1
+"Subject: Invest in crypto now and double your money in 7 days. Guaranteed profit. Limited time offer, act now!!!",spam,1
+Subject: Get a loan approved in 5 minutes with no credit check. Apply now and receive cash today.,spam,1
+Subject: Final notice: your package could not be delivered. Pay a small fee of $2.99 at http://track-parcel-fee.com to release it.,spam,1
+Subject: Your Netflix payment failed. Update your billing information now at http://netflix-billing-update.com to avoid cancellation.,spam,1
+"Subject: Cheap software, Windows, Office, Photoshop. Up to 90% off. Download instantly. Limited stock.",spam,1
+"Subject: Lose 20 pounds in 2 weeks with this miracle pill. No exercise, no diet. Free trial bottle, just pay shipping.",spam,1
+"Subject: Dear friend, I have an exclusive investment opportunity. Hot stock tip. Buy now before it explodes tomorrow!",spam,1
+Subject: You have been selected for a free iPhone. Complete the short survey and claim your free gift today.,spam,1
+Subject: Earn money online. Click this link and get paid to take surveys. Withdraw your cash instantly. Join free!!!,spam,1
+Subject: Your mailbox is almost full. Click here to upgrade your storage immediately or you will lose all your messages.,spam,1
+Subject: Official notice from IRS. You owe back taxes. Pay now with gift cards to avoid arrest.,spam,1
+Subject: Casino bonus! Get 200 free spins and a $1000 welcome bonus. Play now and win big money!!!,spam,1
+Subject: Replica watches and designer bags at unbelievable prices. Visit our online shop now. Free worldwide shipping.,spam,1
+"Subject: Hello dear, I am lonely and looking for a serious relationship. Please write back and I will send you my photos.",spam,1
+Subject: Work from home and get rich quick. Send us 100 dollars to start your own business. Guaranteed income for life.,spam,1
+Subject: Unsubscribe not possible. You have been chosen for our special offer. Buy one get ten free. Call now!!!,spam,1
+Subject: Security warning! Your computer is infected with a virus. Call our toll free number immediately for support.,spam,1
+"Subject: Earn a degree online in 30 days. No classes, no exams. Buy your certificate today at a low price.",spam,1
+"Subject: Free money! Government grant of $10,000 is waiting for you. Apply now, no repayment required.",spam,1
+Subject: Act now! Limited time. Your exclusive discount code expires tonight. Click here to buy cheap pills.,spam,1
+"Subject: Hi, I am a bank manager and have unclaimed funds in your name. Contact me urgently with your details.",spam,1
+Subject: Winner! Claim your free vacation to the Bahamas. Just pay processing fees by wire transfer.,spam,1
